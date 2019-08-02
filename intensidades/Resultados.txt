@@ -1,0 +1,21 @@
+
+Valores medios intensidad....
+Intensidad ideal 9  25.85919
+Intensidad humedo 9  25.76809
+Intensidad ideal 15  54.88112
+Intensidad humedo 15  54.68777
+Intensidad ideal 20  78.12851
+Intensidad humedo 20  77.85326
+Intensidad ideal 25  100.10947
+Intensidad humedo 25  99.75678
+Errores medios......
+error densidad ideal  0.00154
+error densidad humedo  0.00176
+error Intensidad ideal9  0.90590
+error Intensidad humedo9  0.91014
+error Intensidad ideal15  1.51964
+error Intensidad humedo15  1.53018
+error Intensidad ideal20  1.93989
+error Intensidad humedo20  1.95575
+error Intensidad ideal25  2.30390
+error Intensidad humedo25  2.32490
